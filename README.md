@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/h4PFrrgxzoRHpA7T8f/giphy.gif" alt="My Project GIF" width="1100" height="400">
 </table>
 
-### Hi 👋 Leo here �
+### Hi 👋 Leo here 🧙
 
 Creative, detail-oriented, full-stack software engineer with a deep interest in creating apps with the clients’ needs in mind. I have a proven track record of creating and implementing successful front and back end web applications. Looking to bring my skills to a tech company that takes pride in their product(s) and offers a diverse working environment. 
 
