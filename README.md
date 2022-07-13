@@ -2,6 +2,10 @@
 
 <img src="https://media.giphy.com/media/h4PFrrgxzoRHpA7T8f/giphy.gif" alt="My Project GIF" width="1100" height="400">
 
+<p align="left"> <a href="https://twitter.com/https://twitter.com/greek4tech" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/greek4tech?logo=twitter&style=for-the-badge" alt="https://twitter.com/greek4tech" /></a> </p>
+
+
+
 <!--
 **Greek4Tech/Greek4Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
