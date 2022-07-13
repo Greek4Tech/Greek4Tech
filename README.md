@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://media.giphy.com/media/h4PFrrgxzoRHpA7T8f/giphy.gif" alt="My Project GIF" width="1100" height="300">
+
 <!--
 **Greek4Tech/Greek4Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
