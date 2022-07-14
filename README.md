@@ -27,14 +27,14 @@ I am a creative, detail-oriented, full-stack software engineer with a deep inter
 <a href="https://www.linkedin.com/in/leonidasgkimisis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonidasgkimisis/" height="30" width="40" /></a>
 </p>
 
+## Projects
+
 
 <!-- PROJECTS BEGIN -->
 <!--table bordercolor="#33bef5">
   <tr>
-
-
-    <td width="50%" valign="top">
-      <h3 align="center">Star Trek App</h3>
+    <td width="33%" valign="top">
+      <h3 align="center">Juegos Rancheros / Game Lounge App </h3>
       <br />
       <a href="https://github.com/IsaacHHB/star-trek-app" target="_blank">
         <img src="https://user-images.githubusercontent.com/99921497/173469258-825fb1d6-149f-4504-96e0-e336d9c320a7.png" />
@@ -58,8 +58,6 @@ I am a creative, detail-oriented, full-stack software engineer with a deep inter
         <strong>JavaScript, HTML, CSS, JSON, Node.JS, and NPM</strong> - Star Trek App allows you to search aliens and get back their info.
       </p>
     </td>
-
-
     <td width="50%" valign="top">
       <h3 align="center">Vegetarian API</h3>
       <br />
@@ -122,10 +120,3 @@ I am a creative, detail-oriented, full-stack software engineer with a deep inter
   </tr> -->
 </table>
 
-
-<!--
-**Greek4Tech/Greek4Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
