@@ -3,9 +3,9 @@
 <img src="https://media.giphy.com/media/h4PFrrgxzoRHpA7T8f/giphy.gif" alt="My Project GIF" width="1100" height="400">
 </table>
 
-### Hi 👋 Leo here 🧙
+### Hello 👋 World! Leo here 🧙,
 
-Creative, detail-oriented, full-stack software engineer with a deep interest in creating apps with the clients’ needs in mind. I have a proven track record of creating and implementing successful front and back end web applications. Looking to bring my skills to a tech company that takes pride in their product(s) and offers a diverse working environment. 
+I am a creative, detail-oriented, full-stack software engineer with a deep interest in creating apps with the clients’ needs in mind. I have a proven track record of creating and implementing successful front and back end web applications. Looking to bring my skills to a tech company that takes pride in their product(s) and offers a diverse working environment. 
 
 - 😄 Pronouns: He/Him/They
 - ⚡ Fun fact: Cats have captured my heart and they won't give it back. Ever. 
@@ -30,6 +30,8 @@ Creative, detail-oriented, full-stack software engineer with a deep interest in 
 <!-- PROJECTS BEGIN -->
 <!--table bordercolor="#33bef5">
   <tr>
+
+
     <td width="50%" valign="top">
       <h3 align="center">Star Trek App</h3>
       <br />
@@ -55,6 +57,8 @@ Creative, detail-oriented, full-stack software engineer with a deep interest in 
         <strong>JavaScript, HTML, CSS, JSON, Node.JS, and NPM</strong> - Star Trek App allows you to search aliens and get back their info.
       </p>
     </td>
+
+
     <td width="50%" valign="top">
       <h3 align="center">Vegetarian API</h3>
       <br />
