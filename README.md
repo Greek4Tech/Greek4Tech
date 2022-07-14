@@ -8,7 +8,8 @@
 I am a creative, detail-oriented, full-stack software engineer with a deep interest in creating apps with the clients’ needs in mind. I have a proven track record of creating and implementing successful front and back end web applications. Looking to bring my skills to a tech company that takes pride in their product(s) and offers a diverse working environment. 
 
 - 😄 Pronouns: He/Him/They
-- ⚡ Fun fact: Cats have captured my heart and they won't give it back. Ever. 
+- ⚡ Fun fact: Cats have captured my heart and they won't give it back. Ever.
+- 🏠 Home: Roseville, CA. 
 
 
 <h3 align="center">Languages and Tools:</h3>
