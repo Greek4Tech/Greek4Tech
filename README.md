@@ -32,7 +32,7 @@ I am a creative, detail-oriented, full-stack software engineer with a deep inter
     <td width="50%" valign="top">
       <h3 align="center">Juegos Rancheros / Game Lounge App </h3>
       <br />
-      <a href="https://github.com/IsaacHHB/star-trek-app" target="_blank">
+      <a href="https://juegos-rancheros.herokuapp.com/" target="_blank">
         <img height="25%" src="https://github.com/Greek4Tech/files/blob/main/juegos.gif" />
       </a>
       <br />
@@ -41,7 +41,7 @@ I am a creative, detail-oriented, full-stack software engineer with a deep inter
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
         <a href="https://startrekinfo.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
+          <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=pink" />
         </a>
       <p align="center">Also take a look at the back end code hosted on Heroku</p>
       <p align="center">
@@ -51,7 +51,7 @@ I am a creative, detail-oriented, full-stack software engineer with a deep inter
       </p>
       </p>
       <p>
-        <strong>JavaScript, HTML, CSS, JSON, Node.JS, and NPM</strong> - Star Trek App allows you to search aliens and get back their info.
+        <strong>JavaScript, HTML, CSS, JSON, Node.JS, and NPM</strong> - This fullstack eighties-are-back-in-fashion wonder is easy to use, is aesthetically pleasing, and it showcases how to unplug in style.
       </p>
     </td>
     <td width="50%" valign="top">
@@ -70,7 +70,7 @@ I am a creative, detail-oriented, full-stack software engineer with a deep inter
         </a>
       </p>
       <p>
-        <strong>JavaScript, HTML, CSS, JSON</strong> - Check the UPC barcode if the product you purchased is vegetarian.
+        <strong> JavaScript, HTML, CSS </strong> - Aiming to reduce housing barriers, this contemporary responsive website allows traveling professionals to secure safe housing while they are on the move.
       </p>
     </td>
   </tr>
