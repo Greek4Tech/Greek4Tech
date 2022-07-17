@@ -17,7 +17,7 @@ I am a creative, detail-oriented, full-stack software engineer with a deep inter
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=greek4tech&show_icons=true&locale=en&layout=compact" width="45%" alt="greek4tech" />
 <img src="https://github-readme-stats.vercel.app/api?username=greek4tech&show_icons=true&locale=en" height="200px" alt="greek4tech" />
-<img align="center" width="100%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=greek4tech&" alt="greek4tech" /></p>
+<img align="left" width="100%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=greek4tech&" alt="greek4tech" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -27,13 +27,13 @@ I am a creative, detail-oriented, full-stack software engineer with a deep inter
 
 
 <!-- PROJECTS BEGIN -->
-<!--table bordercolor="#33bef5">
+<table bordercolor="#33bef5">
   <tr>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">Juegos Rancheros / Game Lounge App </h3>
       <br />
       <a href="https://github.com/IsaacHHB/star-trek-app" target="_blank">
-        <img src="https://user-images.githubusercontent.com/99921497/173469258-825fb1d6-149f-4504-96e0-e336d9c320a7.png" />
+        <img height="25%" src="https://github.com/Greek4Tech/files/blob/main/juegos.gif" />
       </a>
       <br />
       <p align="center">
