@@ -32,12 +32,12 @@ I am a creative, detail-oriented, full-stack software engineer with a deep inter
     <td width="50%" valign="top">
       <h3 align="center">Juegos Rancheros / Game Lounge App </h3>
       <br />
-      <a href="https://juegos-rancheros.herokuapp.com/" target="_blank">
+<!--       <a href="https://juegos-rancheros.herokuapp.com/" target="_blank"> -->
         <img height="25%" src="https://github.com/Greek4Tech/files/blob/main/juegos.gif" />
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/IsaacHHB/star-trek-app" target="_blank">
+<!--         <a href="https://github.com/IsaacHHB/star-trek-app" target="_blank"> -->
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
         <a href="https://startrekinfo.netlify.app/" target="_blank">
@@ -91,7 +91,7 @@ I am a creative, detail-oriented, full-stack software engineer with a deep inter
         </a>
       </p>
       <p>
-        <strong>JavaScript, HTML, CSS, SCSS, PHP, JSON</strong> - Client Project redoing their entire website
+        <strong>JavaScript, HTML, CSS, SCSS, PHP, JSON</strong> - Client project. 
       </p>
     </td>
     <td width="50%" valign="top">
@@ -110,7 +110,7 @@ I am a creative, detail-oriented, full-stack software engineer with a deep inter
         </a>
       </p>
       <p>
-        <strong>Chart.js, Twitch, JavaScript, HTML, CSS, and JSON</strong> - Generator of Pie & Line charts showcasing the responses of a Twitch chat to impromptu polls
+        <strong>Chart.js, Twitch, JavaScript, HTML, CSS, and JSON</strong> - Explanation of project.
       </p>
     </td>
   </tr>
