@@ -55,10 +55,10 @@ I am a creative, detail-oriented, full-stack software engineer with a deep inter
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Vegetarian API</h3>
+      <h3 align="center">O'Zen Stays</h3>
       <br />
       <a href="https://github.com/IsaacHHB/Veg-API" target="_blank">
-        <img src="https://user-images.githubusercontent.com/99921497/173470789-badb979d-8bf2-428a-9e71-06ffbb729493.png" />
+        <img src="https://github.com/Greek4Tech/files/blob/main/ozen.gif" />
       </a>
       <br />
       <p align="center">
@@ -76,10 +76,10 @@ I am a creative, detail-oriented, full-stack software engineer with a deep inter
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Native Dads Network</h3>
+      <h3 align="center">32Natick</h3>
       <br />
       <a href="https://github.com/IsaacHHB/Nativedads" target="_blank">
-        <img src="https://user-images.githubusercontent.com/99921497/173471478-1d17787f-63f0-41f2-bc3f-4ccb5b39ea82.png" />
+        <img src="https://github.com/Greek4Tech/files/blob/main/34N.gif" />
       </a>
       <br />
       <p align="center">
@@ -94,11 +94,11 @@ I am a creative, detail-oriented, full-stack software engineer with a deep inter
         <strong>JavaScript, HTML, CSS, SCSS, PHP, JSON</strong> - Client Project redoing their entire website
       </p>
     </td>
-    <!-- <td width="50%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">Twitch Chat Poll Visualizer</h3>
       <br />
       <a href="https://rascaltwo.github.io/Twitch-Chat-Poll-Visualizer/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/9403665/156878940-b72b7486-179f-4e02-9075-5c9b7ef969ce.mp4" />
+        <img src="https://github.com/Greek4Tech/files/blob/main/main.gif" />
       </a>
       <br />
       <p align="center">
@@ -113,6 +113,6 @@ I am a creative, detail-oriented, full-stack software engineer with a deep inter
         <strong>Chart.js, Twitch, JavaScript, HTML, CSS, and JSON</strong> - Generator of Pie & Line charts showcasing the responses of a Twitch chat to impromptu polls
       </p>
     </td>
-  </tr> -->
+  </tr>
 </table>
 
