@@ -54,15 +54,15 @@ I am a creative, detail-oriented, full-stack software engineer with a deep inter
     <td width="50%" valign="top">
       <h3 align="center">O'Zen Stays</h3>
       <br />
-      <a href="https://github.com/IsaacHHB/Veg-API" target="_blank">
+      <a href="" target="_blank">
         <img src="https://github.com/Greek4Tech/files/blob/main/ozen.gif" />
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/IsaacHHB/Veg-API" target="_blank">
+        <a href="https://github.com/Greek4Tech/projectWebSiteS" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
-        <a href="https://veggieapi.netlify.app/" target="_blank">
+        <a href="https://inquisitive-longma-15d060.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
         </a>
       </p>
