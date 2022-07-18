@@ -95,7 +95,7 @@ I am a creative, detail-oriented, full-stack software engineer with a deep inter
     <td width="50%" valign="top">
       <h3 align="center">Greek4Tech</h3>
       <br />
-      <a href="https://rascaltwo.github.io/Twitch-Chat-Poll-Visualizer/" target="_blank">
+      <a href="https://greek4tech.netlify.app/" target="_blank">
         <img src="https://github.com/Greek4Tech/files/blob/main/main.gif" />
       </a>
       <br />
@@ -103,12 +103,12 @@ I am a creative, detail-oriented, full-stack software engineer with a deep inter
         <a href="https://greek4tech.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
-        <a href="https://rascaltwo.github.io/Twitch-Chat-Poll-Visualizer/" target="_blank">
+        <a href="https://greek4tech.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
         </a>
       </p>
       <p>
-        <strong>Chart.js, Twitch, JavaScript, HTML, CSS, and JSON</strong> - Explanation of project.
+        <strong>JavaScript, HTML, CSS.</strong> - Explanation of project.
       </p>
     </td>
   </tr>
