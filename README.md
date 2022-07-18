@@ -108,7 +108,7 @@ I am a creative, detail-oriented, full-stack software engineer with a deep inter
         </a>
       </p>
       <p>
-        <strong>JavaScript, HTML, CSS.</strong> - Explanation of project.
+        <strong>JavaScript, HTML, CSS.</strong>
       </p>
     </td>
   </tr>
