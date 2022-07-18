@@ -75,31 +75,32 @@ I am a creative, detail-oriented, full-stack software engineer with a deep inter
     <td width="50%" valign="top">
       <h3 align="center">32Natick</h3>
       <br />
-      <a href="https://github.com/IsaacHHB/Nativedads" target="_blank">
+      <a href="https://34natick.com/" target="_blank">
         <img src="https://github.com/Greek4Tech/files/blob/main/34N.gif" />
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/IsaacHHB/Nativedads" target="_blank">
+        <a href="https://34natick.com/" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
-        <a href="https://nativedadsnetwork.org/" target="_blank">
+        <a href="https://34natick.com/" target="_blank">
           <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
         </a>
       </p>
       <p>
-        <strong>JavaScript, HTML, CSS, SCSS, PHP, JSON</strong> - Client project. 
+        <strong> This website was designed to help my client increase their <br>
+          marketing outreach.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Twitch Chat Poll Visualizer</h3>
+      <h3 align="center">Greek4Tech</h3>
       <br />
       <a href="https://rascaltwo.github.io/Twitch-Chat-Poll-Visualizer/" target="_blank">
         <img src="https://github.com/Greek4Tech/files/blob/main/main.gif" />
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/RascalTwo/Twitch-Chat-Poll-Visualizer" target="_blank">
+        <a href="https://greek4tech.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
         <a href="https://rascaltwo.github.io/Twitch-Chat-Poll-Visualizer/" target="_blank">
