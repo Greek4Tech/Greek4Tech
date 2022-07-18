@@ -40,7 +40,7 @@ I am a creative, detail-oriented, full-stack software engineer with a deep inter
           <a href="https://github.com/Greek4Tech/juegosRancheros" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
           </a>
-        <a href="https://startrekinfo.netlify.app/" target="_blank">
+        <a href="https://juegos-rancheros.herokuapp.com/intro" target="_blank">
           <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=pink" />
         </a>
       </p>
