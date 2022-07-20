@@ -29,7 +29,7 @@ I am a creative, detail-oriented, full-stack software engineer with a deep inter
 <table bordercolor="#33bef5">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Juegos Rancheros / Game Lounge App </h3>
+      <h3 align="center">Juegos Rancheros (hosted on Heroku) </h3>
       <br />
         <a href="https://juegos-rancheros.herokuapp.com/" target="_blank"> 
         <img height="25%" src="https://github.com/Greek4Tech/files/blob/main/juegos.gif" />
@@ -42,9 +42,6 @@ I am a creative, detail-oriented, full-stack software engineer with a deep inter
         <a href="https://juegos-rancheros.herokuapp.com/intro" target="_blank">
           <img src="https://img.shields.io/badge/-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=pink" />
         </a>
-      </p>
-            <p align="center">
-        <img src ="https://heroku-badge.herokuapp.com/?app=juegos-rancheros" />
       </p>
       <p>
         <strong>JavaScript, HTML, CSS, JSON, Node.JS, and NPM</strong> - This fullstack eighties-are-back-in-fashion wonder is easy to use, is aesthetically pleasing, and it showcases how to unplug in style.
